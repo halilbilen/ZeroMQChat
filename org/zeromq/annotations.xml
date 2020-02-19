@@ -1,0 +1,5 @@
+<root>
+    <item name='org.zeromq.ZMQ.Poller'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
